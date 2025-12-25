@@ -17,6 +17,9 @@ config ZMK_POINTING
 
 config SPI
     default y
+
+config INPUT_PMW3610
+    default y
             	
 endif
 
